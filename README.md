@@ -1,4 +1,4 @@
-### hey, i'm davi dante 👋
+### hi, i'm davi donadelli 👋
 
 backend developer | tech enthusiast | lifelong learner
 
@@ -11,11 +11,14 @@ backend developer | tech enthusiast | lifelong learner
 - 🚀 started my tech journey in 2019 and it's been an amazing ride since.
 - 📚 constantly evolving by exploring new tech, languages, patterns, and more.
 
----
+💼 **skills:**
 
-🛠️ **my tech stack:**
-
-<a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/22dc44dfd56f2e5f224fa125a65454"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+- languages: `java`, `kotlin`
+- frameworks: `spring`, `javalin`, `ktor`
+- devops: `docker`, `docker compose`, `terraform`, `amazon aws`, `jenkins`, `ansible`, `puppet`
+- databases: `mongodb`, `redis`, `postgresql`, `mysql`, `cassandra`
+- systems: `linux`, `windows`, `macos`
+- tools: `git`, `gradle`, `maven`, `kibana`, `splunk`, `appdynamics`, `grafana`, `datadog`
 
 ---
 
