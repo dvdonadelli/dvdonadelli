@@ -8,7 +8,7 @@ backend developer | tech enthusiast | lifelong learner
 
 - 👨‍💻 embracing the tech world, especially backend development and microservices.
 - 🌟 keen on best practices, algorithms, and innovative data structures.
-- 🚀 started my tech journey in 2019 and it's been an amazing ride since.
+- 🚀 started my tech journey in 2015 and it's been an amazing ride since.
 - 📚 constantly evolving by exploring new tech, languages, patterns, and more.
 
 💼 **skills:**
